@@ -1,8 +1,8 @@
 {
   "name": "project-bootstrap",
   "version": "1.0.0",
-  "description": "Makes Kimi Code orient itself and specialise to a repo when resuming work, or to a new idea when starting a project.",
-  "keywords": ["project", "resume", "onboarding", "memory", "bootstrap"],
+  "description": "Makes Kimi Code orient itself and specialise to a repo when resuming work, or to a new idea when starting a project. Includes monetization, go-to-market, and pricing skills for devtools.",
+  "keywords": ["project", "resume", "onboarding", "memory", "bootstrap", "monetization", "pricing", "go-to-market"],
   "interface": {
     "displayName": "Project Bootstrap",
     "shortDescription": "Self-orienting sessions: resume a repo or start a new project"
