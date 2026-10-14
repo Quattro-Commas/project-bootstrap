@@ -1,0 +1,14 @@
+{
+  "name": "project-bootstrap",
+  "version": "1.0.0",
+  "description": "Makes Kimi Code orient itself and specialise to a repo when resuming work, or to a new idea when starting a project.",
+  "keywords": ["project", "resume", "onboarding", "memory", "bootstrap"],
+  "interface": {
+    "displayName": "Project Bootstrap",
+    "shortDescription": "Self-orienting sessions: resume a repo or start a new project"
+  },
+  "skills": "./skills/",
+  "systemPromptPath": "./SYSTEM.md",
+  "sessionStart": { "skill": "bootstrap" },
+  "commands": "./commands/"
+}
