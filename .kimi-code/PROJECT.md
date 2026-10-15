@@ -3,9 +3,9 @@
 
 ## Status (2026-10-15)
 - Phase: stabilising
-- Working: v1.0.0 released, repo public, README/security/docs/templates/waitlist/tracker in place
-- Broken / blocked: none
-- In-flight changes: 30-day launch experiment (LAUNCH-EXPERIMENT.md)
+- Working: v1.0.0 released, repo public, README/security/docs/templates/waitlist/tracker/CHANGELOG in place, repo Discussions announcement posted
+- Broken / blocked: external promotion channels waiting for user approval
+- In-flight changes: 30-day launch experiment (LAUNCH-EXPERIMENT.md); Week 0 baseline recorded
 
 ## Stack and commands
 - Language/runtime: Markdown / Kimi Code plugin (no build)
