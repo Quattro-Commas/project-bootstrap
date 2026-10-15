@@ -44,6 +44,14 @@ GH_CONFIG_DIR=$HOME/.config/gh-codespace gh repo view Quattro-Commas/project-boo
 - If installs ≥ 50 but waitlist < 20: keep the plugin free and refine the Pro pitch before building.
 - If installs < 50: review distribution channels and README clarity, then run a second experiment.
 
+## Baseline (2026-10-15)
+
+| Metric | Value |
+| ------ | ----- |
+| Installs (release downloads) | 1 |
+| Waitlist sign-ups | 0 |
+| Stars | 0 |
+
 ## Channels
 
 - Kimi Code community spaces
