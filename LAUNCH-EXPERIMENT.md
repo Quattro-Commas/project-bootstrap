@@ -52,6 +52,14 @@ GH_CONFIG_DIR=$HOME/.config/gh-codespace gh repo view Quattro-Commas/project-boo
 | Waitlist sign-ups | 0 |
 | Stars | 0 |
 
+## Week 0 check (2026-10-15)
+
+| Metric | Value | Notes |
+| ------ | ----- | ----- |
+| Installs (release downloads) | 1 | Internal test/verification download |
+| Waitlist sign-ups | 0 | Discussion created, no organic reach yet |
+| Stars | 0 | Repo announcement just posted |
+
 ## Channels
 
 - Kimi Code community spaces
