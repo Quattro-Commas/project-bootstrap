@@ -50,6 +50,12 @@ To wrap up a session:
 - The plugin makes no network requests and collects no telemetry.
 - See [SECURITY.md](./SECURITY.md) for how to report vulnerabilities.
 
+## Pro waitlist
+
+Project Bootstrap is free and open-source. A future Pro/Enterprise tier will add team-shared project memory, org-wide conventions, and usage analytics.
+
+If you are interested, join the waitlist: https://github.com/Quattro-Commas/project-bootstrap/discussions/7
+
 ## Supported versions
 
 Tested with Kimi Code CLI 2.2.0.
