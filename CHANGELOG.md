@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2026-10-18
+
+### Changed
+- Added marketplace-ready fields to `kimi.plugin.json`: `longDescription`, `developerName`, and `websiteURL`.
+
 ## [1.0.0] - 2026-10-15
 
 ### Added
