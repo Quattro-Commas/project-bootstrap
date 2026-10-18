@@ -44,6 +44,32 @@ To wrap up a session:
 /project-bootstrap:wrapup
 ```
 
+## Example session
+
+Starting a new side project:
+
+```
+/project-bootstrap:newproject "a local habit tracker that exports CSV"
+```
+
+Project Bootstrap asks a few short questions and scaffolds a `README.md`, `.gitignore`, and `.kimi-code/PROJECT.md` with the first milestone.
+
+Coming back the next day:
+
+```
+/project-bootstrap:resume
+```
+
+It reads `.kimi-code/PROJECT.md`, shows what was in flight, and asks whether to continue.
+
+Finishing the session:
+
+```
+/project-bootstrap:wrapup
+```
+
+It updates `PROJECT.md` with what changed and the next three steps.
+
 ## Privacy and security
 
 - All memory stays local in `.kimi-code/PROJECT.md` inside each repo.
