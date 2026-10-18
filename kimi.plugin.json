@@ -5,7 +5,10 @@
   "keywords": ["project", "resume", "onboarding", "memory", "bootstrap", "monetization", "pricing", "go-to-market"],
   "interface": {
     "displayName": "Project Bootstrap",
-    "shortDescription": "Self-orienting sessions: resume a repo or start a new project"
+    "shortDescription": "Self-orienting sessions: resume a repo or start a new project",
+    "longDescription": "Project Bootstrap classifies the current directory at session start and offers the right next step. It adds slash commands to resume existing projects, scaffold new ones, and wrap up sessions, plus skills for monetization, go-to-market, and pricing planning.",
+    "developerName": "Quattro-Commas",
+    "websiteURL": "https://github.com/Quattro-Commas/project-bootstrap"
   },
   "skills": "./skills/",
   "systemPromptPath": "./SYSTEM.md",
